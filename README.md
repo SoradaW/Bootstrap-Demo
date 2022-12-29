@@ -31,4 +31,4 @@ https://soradaw.github.io/Bootstrap-Demo/
 
 ## License
 
-There is no license - However, my contact details may not be used for sales or marketing, and may not be sold or provided to anyone without my express consent. My contact details may be used only for the purpose of demonstrating and for potential job/ work opportunities. No recruites please.
+There is no license - However, my contact details may not be used for sales or marketing, and may not be sold or provided to anyone without my express consent. My contact details may be used only for the purpose of demonstrating and for potential job or work opportunities. No recruites please.
