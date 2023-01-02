@@ -2,15 +2,9 @@
 
 ## Working with advance CSS and Bootstrap
 
-This repository demonstrate a portfolio layout using the Bootstrap CSS Framework from scratch.
+This repository demonstrate a portfolio layout using HTML, advance CSS and Bootstrap from scratch.
 
-Goals and objectives for the repo:
-
-To demonstrate HTML, advance CSS and Bootstrap
-
-## Bootstrap Demo
-
-How it looks like:
+## Deployed Page
 
 ![Bootstrap-Demo](/images/deployed-page.jpg)
 
@@ -22,7 +16,7 @@ How it looks like:
 * When hover to cards section the image should be a bit larger in size, box-shadow colour should appear and when clicked user should be taken to its relevant pages
 * When hover to avatar image, my image will appears
 * When clicked 'Send' button without details, required message should alert
-*  When clicked back to top button, user will be taken to the top of the page
+* When clicked back to top button, user will be taken to the top of the page
 * All hyperlinks had a hover effect
 
 ## Link to deployed application
