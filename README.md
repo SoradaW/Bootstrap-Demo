@@ -12,7 +12,7 @@ To demonstrate HTML, advance CSS and Bootstrap
 
 How it looks like:
 
-![Bootstrap-Demo](/images/#.jpg)
+![Bootstrap-Demo](/images/deployed-page.jpg)
 
 ## Instructions
 
